@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+/* Theme Custom CSS */
+html, body { height: 100%; }
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #fff;
+}
+
+.logo {
+  max-width:150px; 
+  width:100%; 
+  height:auto;
+}
+
+.mb_login .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+}
+
+.mb_login .form-control:focus {
+  z-index: 2;
+}
+
+.mb_login input[type="user"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.mb_login input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.mb_login, .register, .member_cert_refresh, .mb_confirm, .password {
+  width: 100%; 
+  max-width: 330px; 
+  padding: 15px; 
+  margin: auto; 
+}
+
+.form-info {
+  display:block;
+  margin:5px 0 0;
+  font-size:80%;
+  color:#ff0000;
+  letter-spacing:-0.1em
+}
+
+/* login.skin.php */
+#sns_login h3 { display: none; }
+#sns_login { border-bottom: 1px solid #edeaea; margin-bottom: 15px; }
+.sns-wrap { margin: 10px 0 10px; }
+
+@media (max-width: 575px) {
+	#captcha_audio {display:none !important;} 
+}

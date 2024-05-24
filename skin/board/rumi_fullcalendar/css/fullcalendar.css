@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* 달력 상단 라인 두께 */
+.fc-view-harness  {border-top: 2px solid #000;}
+
+/* 토/일 글자색상 및 배경색상 */
+.fc-day-sun a, .fc-day-sun a.fc-daygrid-day-number { color:red }
+.fc-day-sat a, .fc-day-sat a.fc-daygrid-day-number { color:blue }
+.fc-day-sat { background: #F0F0FF; }
+.fc-day-sun { background: #FFF7F7; }
+
+/* 달력 헤더 (월 ~ 토) */
+.fc-col-header-cell { height:30px; vertical-align: revert !important; background:#efefef; }
+.fc .fc-col-header-cell-cushion { padding:0px 4px !important; }
+
+/* 글쓰기 텍스트 및 배경 색상 선택 */
+.clr-list {list-style:none; margin-left: 10px; }
+.clr-list > .clr-title { height:26px; line-height:26px; margin-right:10px; }
+.clr-list:after {display:block;visibility:hidden;clear:both;content:''}
+.clr-list > li {float:left}
+.clr-list > li .btn-color {display:block; margin: 0 1px; width:26px; height:26px; border-radius: 3px; border:1px solid #ccc; }
+.clr-list > li .user-color { outline:none; border:1px solid #ccc; width:70px !important; text-align:center; }
+.color-sample { display:block; width:100%; height:40px; line-height:38px; text-align:center; background:#3788D8; color:#ffffff; border-radius:5px; }
+
+/* 달력 메인화면 상단 툴바 */
+.fc-toolbar-chunk:nth-child(1) { width:30%; text-align:left; }
+.fc-toolbar-chunk:nth-child(2) { width:40%; text-align:center; }
+.fc-toolbar-chunk:nth-child(3) { width:30%; text-align:right; }
+.fc-toolbar-chunk > h2 { display: inline-block; padding-top:3px !important; }
+.fc .fc-button { border:0px !important; } /* button style */
+.fc-prev-button { display:inline-block; }
+.fc-next-button { display:inline-block; margin-left:1.2em !important; }
+
+/* 카테고리 */
+.category { display:inline-block; background:#2C3E50; color:#fff; height:30px; line-height:30px; padding:0px 8px !important; text-align:center; margin-right:3px; border-radius:3px; cursor:pointer; }
+.category-active { background:#22A7F2 !important; }
+
+/* 이벤트 바 */
+.fc-event-main-frame {
+    /* height:28px; */
+    /* line-height:24px; */
+    font-size:13px;
+    padding:2px 5px; }
+.fc-daygrid-event { font-size:11px !important; }
+
+/* 날짜 글자 크기 */
+.fc-daygrid-day-number { font-size:1.1em; }
+
+/* 글쓰기 버튼 */
+.rumi-write { position:absolute; display:none; top:6px; left:7px; font-size:15px; color:#ccc; cursor:pointer; z-index:10;}
+.rumi-write:hover { background:#dd6666; color:#fff; border-radius:50%; padding:5px; top:1px; left:2px}
+.fc-daygrid-day-frame:hover .rumi-write { display:block; }
+
+/* 날짜/음력/공휴일 높이 */
+.fc-daygrid-day-top { height:35px; }
+
+/* 음력 / 공휴일 */
+.rumi-lunarday { position: absolute; top: 22px; right: 5px; font-size: 10px; color:#888; }
+.rumi-lunarholiday { position: absolute; top: 5px; left: 30px; font-size: 11px; color:#FF2F2F; }
+.week-rumi-lunarset { display: block; width:100%; }
+.week-rumi-lunarday { display:inline-block; font-size: 11px; color:#888; }
+.week-rumi-lunarholiday { display:inline-block;  font-size: 11px; color:#FF2F2F; margin-left:8px; }
+
+/* fullcalendar 설정 */
+.wz_tbl_1,.wz_tbl_1 th,.wz_tbl_1 td{border:0;}
+.wz_tbl_1{width:100%;text-align:center;margin: 7px 0 0px;}
+.wz_tbl_1 table {clear:both;width:100%;border-collapse:collapse;border-spacing:0;background-color:#fff}
+.wz_tbl_1 tbody, .wz_tbl_1 tr, .wz_tbl_1 td {vertical-align:middle}
+.wz_tbl_1 caption{display:none}
+.wz_tbl_1 th { height:37px; padding:3px 0px; border:1px solid #dcdcdc;color:#666;text-align:center;font-weight:bold;background-color: #fbfbfb;}
+.wz_tbl_1 td { height:37px; padding:3px 5px; border:1px solid #e5e5e5; color:#4c4c4c; text-align:left;}
+.wz_tbl_1 th span.last:after {border:none;}
+.wz_tbl_1 td .numberic {text-align:right;padding-right:4px;}
+.wz_tbl_1 ul li { display:inline-block; margin-right:10px; }
+
+/* 일정 상세보기 (view.skin.php) */
+#bo_v .scdate-txt {
+    position:relative;
+    display:block;
+    width:100%;
+    height:34px;
+    font-size: 14px;
+}
+#bo_v .scdate-txt span {
+    position:absolute;
+    display:inline-block;
+    color:#fff;
+}
+#bo_v .scdate-txt .date-title {
+    width:100px;
+    top:0;
+    left:0;
+    background:#555;
+    text-align: center;
+    padding:7px 0;
+}
+#bo_v .scdate-txt .date-txt {
+    width:100%;
+    text-align:left;
+    padding:7px 0 7px 110px;
+    background:#888;
+}
+
+/* .lunarDay { position:absolute; top:22px; right:5px; color:#888;} */
+.fc .fc-daygrid-body-unbalanced .fc-daygrid-day-events { min-height: 100px !important; }

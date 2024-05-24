@@ -1,0 +1,128 @@
+Sentences that contain all letters commonly used in a language
+--------------------------------------------------------------
+
+This file is UTF-8 encoded.
+
+Czech (cz)
+---------
+
+  P힂챠큄ern휎 탑lu큐ou훾k첵 k킁흫 첬p휎l 휁찼belsk챕 처dy.
+  Hle휁, to큐 p힂챠zra훾n첵 k킁흫 v m찼to탑n챕 p처ze 큄챠len휎 첬p챠.
+  Zvl찼큄큐 z찼ke힂n첵 u훾e흫 s 휁ol챠훾ky b휎탑챠 pod챕l z처ny 첬l킁.
+  Lo휁 훾e힂챠 k첵lem t킁흫 obzvl찼큄큐 v Gr처nsk챕 첬탑in휎.
+  횙, n찼hl첵 d챕큄큐 ji탑 zv챠힂il prach a 훾il찼 la흫 te휁 b휎탑챠 s houfcem gazel k 첬kryt킁m.
+
+Danish (da)
+---------
+
+  Quizdeltagerne spiste jordb챈r med fl첩de, mens cirkusklovnen
+  Wolther spillede p책 xylofon.
+  (= Quiz contestants were eating strawbery with cream while Wolther
+  the circus clown played on xylophone.)
+
+German (de)
+-----------
+
+  Falsches 횥ben von Xylophonmusik qu채lt jeden gr철횩eren Zwerg
+  (= Wrongful practicing of xylophone music tortures every larger dwarf)
+
+  Zw철lf Boxk채mpfer jagten Eva quer 체ber den Sylter Deich
+  (= Twelve boxing fighters hunted Eva across the dike of Sylt)
+
+  Heiz철lr체cksto횩abd채mpfung
+  (= fuel oil recoil absorber)
+  (jqvwxy missing, but all non-ASCII letters in one word)
+
+English (en)
+------------
+
+  The quick brown fox jumps over the lazy dog
+
+Spanish (es)
+------------
+
+  El ping체ino Wenceslao hizo kil처metros bajo exhaustiva lluvia y
+  fr챠o, a챰oraba a su querido cachorro.
+  (Contains every letter and every accent, but not every combination
+  of vowel + acute.)
+
+French (fr)
+-----------
+
+  Portez ce vieux whisky au juge blond qui fume sur son 챤le int챕rieure, 횪
+  c척t챕 de l'alc척ve ovo챦de, o첫 les b청ches se consument dans l'창tre, ce
+  qui lui permet de penser 횪 la c챈nogen챔se de l'챗tre dont il est question
+  dans la cause ambigu챘 entendue 횪 Mo첼, dans un capharna체m qui,
+  pense-t-il, diminue 챌횪 et l횪 la qualit챕 de son 흹uvre.
+
+  l'챤le exigu챘
+  O첫 l'ob챔se jury m청r
+  F챗te l'ha챦 volap체k,
+  횂ne ex a챕quo au whist,
+  횚tez ce v흹u d챕챌u.
+
+  Le c흹ur d챕챌u mais l'창me plut척t na챦ve, Lou첼s r챗va de crapa체ter en
+  cano챘 au del횪 des 챤les, pr챔s du m채lstr철m o첫 br청lent les nov챈.
+
+Irish Gaelic (ga)
+-----------------
+
+  D'fhuascail 횒osa, 횣rmhac na h횙ighe Beannaithe, p처r 횋ava agus 횁dhaimh
+
+Hungarian (hu)
+--------------
+
+  횁rv챠zt킥r흷 t체k철rf첬r처g챕p
+  (= flood-proof mirror-drilling machine, only all non-ASCII letters)
+
+Icelandic (is)
+--------------
+
+  K챈mi n첵 철xi h챕r ykist 첸j처fum n첬 b챈챨i v챠l og 찼drepa
+
+  S챈v철r gr챕t 찼챨an 첸v챠 첬lpan var 처n첵t
+  (some ASCII letters missing)
+
+Greek (el)
+-------------
+
+  ?慣瓘串琯? 觀慣溯?關???菅溯꽤?灌溯꽝?罐溯?棺?炤??菅溯???溯?????慣?溯?刮串???恝
+  (= No more shall I see acacias or myrtles in the golden clearing)
+
+  ?琯?觀琯?郭瓘? ?溯늴????恝?罐??慣 棺灌琯貫?款關官慣
+  (= I uncover the soul-destroying abhorrence)
+
+Hebrew (iw)
+-----------
+
+  ? ?? 遼樓淚? 漏? ??? ?????? ??壘瘻鬧 ?屢? ?? ??淚? ??? ?樓????
+
+Polish (pl)
+-----------
+
+  Pchn훳훶 w t휌 흢처d탄 je탉a lub osiem skrzy흦 fig
+  (= To push a hedgehog or eight bins of figs in this boat)
+
+  Za탉처흢훶 g휌힄l훳 ja탄흦
+
+Russian (ru)
+------------
+
+  ? ?逵?逵? ?均逵 菌龜剋 閨? ?龜????? ?逵, 戟棘 ?逵剋??龜勻?橘 ?克鈞筠劇極剋??!
+  (= Would a citrus live in the bushes of south? Yes, but only a fake one!)
+
+Thai (th)
+---------
+
+  [--------------------------|------------------------]
+  仙?仙錫쎹퉯錫쇸륫錫쇸만錫⒯륭仙뚟릉錫멘툝錫쎹르錫겯?錫む르錫닮툙仙錫?릿錫ⓣ툌錫멘툜錫꾝퉰錫? 錫곟름仙댽림錫싟르錫｀툝錫꿋툦錫밝툏錫む릴錫뺖름仙뚟?錫붲르錫긍툑錫됢림錫?
+  錫댽툏錫앧퉰錫꿋툨錫긍툢錫왽릴錫믞툢錫꿋름錫닮툓錫꿋툈錫꿋르           錫?륭仙댽림錫?퉱錫꿋툏錫쒉른錫꿋툖錫ㅰ퉭仙錫귖퉰錫쇸툎仙댽림錫싟링錫묂림仙꺺툌錫?
+  仙꾝륫仙댽툟錫룅릎仙귖툠錫⒯퉪錫곟르錫섁퉩錫듺퉰錫뉋툔錫긍툝錫?마錫붲리錫긍툝錫붲퉰錫?    錫ム릴錫붲릎錫졷릴錫№?錫ム륫錫룅릎錫쇸툈錫듀릍錫꿋릎錫긍툓錫뚟림錫む릴錫?
+  錫쎹툘錫닮툣錫긍툞錫닮툤錫｀린錫왽륵錫뺖릿錫곟툗錫곟립錫ム툢錫붲퉫錫?       錫왽많錫붲툑錫꿋퉫錫ム퉱錫댽퉲錫겯퉮 錫댽퉳錫꿋퉮 錫쇸퉰錫꿋툨錫긍툏仙錫?륭 錫?
+
+  [The copyright for the Thai example is owned by The Computer
+  Association of Thailand under the Royal Patronage of His Majesty the
+  King.]
+
+Please let me know if you find others! Special thanks to the people
+from all over the world who contributed these sentences.
